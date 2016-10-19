@@ -1,0 +1,8 @@
+{
+  "name": "asai95-metadata",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.x.x",
+    "multer": "1.x.x"
+  }
+}
